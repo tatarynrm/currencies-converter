@@ -30,7 +30,9 @@ input[type=number]::-webkit-inner-spin-button {
 
 .cur-select option {
     background-color: darkcyan;
+    text-align: center;
 }
+
 
 .cur-select::-webkit-scrollbar {
     display: none;
